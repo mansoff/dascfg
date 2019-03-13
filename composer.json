@@ -1,0 +1,19 @@
+{
+    "name": "mansoff/dascfg",
+    "description": "Das Config",
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "7.0.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mansoff\\": "src/Mansoff/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Mansoff\\Tests\\": "tests/"
+        }
+    }
+}
