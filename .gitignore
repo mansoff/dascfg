@@ -1,0 +1,11 @@
+*.DS_Store
+
+/.idea/
+/vendor/
+
+# Build data
+/build/
+/build/coverage-xml
+
+# Composer PHAR
+/composer.phar
