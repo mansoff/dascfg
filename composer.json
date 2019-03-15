@@ -1,6 +1,8 @@
 {
     "name": "mansoff/dascfg",
     "description": "Das Config",
+    "minimum-stability": "dev",
+    "license": "MIT",
     "require": {
     },
     "require-dev": {
